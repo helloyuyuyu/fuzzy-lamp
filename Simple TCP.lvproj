@@ -97,8 +97,8 @@
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 			</Item>
-			<Item Name="readphoto.vi" Type="VI" URL="../readphoto.vi"/>
-			<Item Name="wirtePhoto.vi" Type="VI" URL="../wirtePhoto.vi"/>
+			<Item Name="readFile.vi" Type="VI" URL="../readFile.vi"/>
+			<Item Name="wirteFile.vi" Type="VI" URL="../wirteFile.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
